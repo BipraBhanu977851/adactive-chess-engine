@@ -1,17 +1,10 @@
 """
-Chess Engine Core Module
+GUI Module
 
-This module contains the core chess engine functionality:
-- Board representation
-- Move generation
-- Search algorithms (minimax with alpha-beta pruning)
-- Base evaluation function
+Provides Tkinter-based graphical user interface for the chess engine.
 """
 
-from .board import ChessBoard
-from .movegen import MoveGenerator
-from .search import SearchEngine
-from .evaluation import EvaluationFunction
+from .chess_gui import ChessGUI
 
-__all__ = ['ChessBoard', 'MoveGenerator', 'SearchEngine', 'EvaluationFunction']
+__all__ = ['ChessGUI']
 
