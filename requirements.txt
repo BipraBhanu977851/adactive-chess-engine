@@ -1,0 +1,12 @@
+# Adaptive Chess Engine - Requirements
+#
+# Python 3.7 or higher is recommended.
+#
+# Required dependencies:
+matplotlib>=3.5.0  # For radar chart visualization
+
+# Optional dependencies:
+# - numpy: For more efficient numerical operations (optional)
+# - scipy: For advanced statistical analysis (optional)
+# - pytest: For testing framework (optional)
+
