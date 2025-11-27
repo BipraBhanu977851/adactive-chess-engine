@@ -1,0 +1,68 @@
+{
+  "player_id": "default_player",
+  "player_name": "Player",
+  "games_played": 1,
+  "moves_recorded": 2,
+  "aggression_score": 0.5,
+  "defensive_score": 0.5,
+  "tactical_score": 0.5,
+  "positional_score": 0.5,
+  "endgame_score": 0.5,
+  "mistake_control": 0.5,
+  "blunder_rate": 0.0,
+  "trade_willingness": 0.5,
+  "king_safety_focus": 0.5,
+  "central_control_preference": 0.5,
+  "piece_activity_preference": 0.5,
+  "pawn_structure_focus": 0.5,
+  "average_move_time": 0.0,
+  "capture_rate": 0.0,
+  "check_rate": 0.0,
+  "castle_rate": 0.0,
+  "recent_moves": [
+    {
+      "is_capture": false,
+      "is_check": false,
+      "is_castling": false,
+      "piece_type": 1,
+      "target_piece": null,
+      "move_forward": true,
+      "central_square": true,
+      "attacking_value": 0.0,
+      "defensive_value": 2.5,
+      "piece_value_gain": 0.0,
+      "from": [
+        6,
+        3
+      ],
+      "to": [
+        4,
+        3
+      ],
+      "color": "white"
+    },
+    {
+      "is_capture": false,
+      "is_check": false,
+      "is_castling": false,
+      "piece_type": 3,
+      "target_piece": null,
+      "move_forward": true,
+      "central_square": false,
+      "attacking_value": 5.0,
+      "defensive_value": 0.0,
+      "piece_value_gain": 0.0,
+      "from": [
+        7,
+        2
+      ],
+      "to": [
+        3,
+        6
+      ],
+      "color": "white"
+    }
+  ],
+  "recent_positions": [],
+  "last_updated": "2025-11-26T18:21:34.431585"
+}

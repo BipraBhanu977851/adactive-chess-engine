@@ -1,0 +1,22 @@
+{
+  "player_id": "01",
+  "player_name": "Bipra",
+  "games_played": 0,
+  "moves_recorded": 0,
+  "aggression_score": 0.5,
+  "defensive_score": 0.5,
+  "tactical_score": 0.5,
+  "positional_score": 0.5,
+  "trade_willingness": 0.5,
+  "king_safety_focus": 0.5,
+  "central_control_preference": 0.5,
+  "piece_activity_preference": 0.5,
+  "pawn_structure_focus": 0.5,
+  "average_move_time": 0.0,
+  "capture_rate": 0.0,
+  "check_rate": 0.0,
+  "castle_rate": 0.0,
+  "recent_moves": [],
+  "recent_positions": [],
+  "last_updated": "2025-11-23T19:15:31.332471"
+}
